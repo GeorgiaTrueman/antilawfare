@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AntiLawFare</title>
+  <style>
+    body {
+      font-family: "Sylfaen", "DejaVu Sans", Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      margin: 0; padding: 0;
+      color: #222;
+    }
+    header {
+      background: #1b2d5f;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h1 {
+      margin-bottom: 0.2rem;
+    }
+    p {
+      line-height: 1.5;
+      margin-bottom: 1rem;
+    }
+    a.button {
+      display: inline-block;
+      background: #1b2d5f;
+      color: white;
+      padding: 0.6rem 1.2rem;
+      border-radius: 4px;
+      text-decoration: none;
+      margin-top: 1rem;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #3952a3;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.8rem;
+      padding: 1rem;
+      color: #555;
+      border-top: 1px solid #ddd;
+      margin-top: 3rem;
+    }
+    ul {
+      margin-left: 1.2rem;
+    }
+    @media (max-width: 480px) {
+      main {
+        margin: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AntiLawFare</h1>
+    <p>უსაფრთხო და თავისუფალი სივრცე პროგრესული აქტივისტებისთვის</p>
+  </header>
+  <main>
+    <section>
+      <h2>ჩვენი მიზანი</h2>
+      <p>შექმნა დეცენტრალიზებული, დაშიფრული პლატფორმა, სადაც ყველას შეეძლება თავისუფლად გაზიარება და კომუნიკაცია — ცენზურის გარეშე.</p>
+    </section>
+    <section>
+      <h2>ჩვენი მთავარი ინსტრუმენტები</h2>
+      <ul>
+        <li><strong>Matrix + Element:</strong> დეცენტრალიზებული ჩატები და ჯგუფები.</li>
+        <li><strong>Mastodon:</strong> უსაფრთხო და თავისუფალი სოციალური ქსელი.</li>
+        <li><strong>CryptPad:</strong> დაშიფრული დოკუმენტები და ერთობლივი სამუშაო.</li>
+      </ul>
+    </section>
+    <section>
+      <h2>დამატებითი რესურსები</h2>
+      <ul>
+        <li><a href="https://matrix.org" target="_blank" rel="noopener">Matrix.org</a></li>
+        <li><a href="https://element.io" target="_blank" rel="noopener">Element.io</a></li>
+        <li><a href="https://mastodon.social" target="_blank" rel="noopener">Mastodon.social</a></li>
+        <li><a href="https://cryptpad.fr" target="_blank" rel="noopener">CryptPad.fr</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>დაგვიკავშირდით</h2>
+      <p>პროექტში ჩართულობისა და მხარდაჭერისთვის მოგვწერეთ: <a href="mailto:open.democracy.hub@example.com">open.democracy.hub@example.com</a></p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 AntiLawFare | უფასო, ღია და დამოუკიდებელი სივრცე</p>
+  </footer>
+</body>
+</html>
+პირველი commit
